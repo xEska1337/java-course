@@ -1,4 +1,4 @@
-package pl.teslachorzow.afirstproject;
+package pl.teslachorzow.afirstproject.afirstproject;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 

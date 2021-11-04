@@ -1,4 +1,4 @@
-package pl.teslachorzow.afirstproject;
+package pl.teslachorzow.afirstproject.afirstproject;
 
 // ctrl+alt+l code alignment
 

@@ -1,4 +1,4 @@
-package pl.teslachorzow.bsecondproject;
+package pl.teslachorzow.afirstproject.bsecondproject;
 
 public class Main01 {
     public static void main(String[] args) {
