@@ -15,5 +15,17 @@ public class Main08 {
             }
             System.out.println(" ");
         }
+        for (int h = 1; h <= n; h++){
+
+            for (int y = 1; y <= n; y++) {
+                if (h + 1 > y) {
+                    System.out.print(" *");
+                }
+                else {
+                    System.out.print(" " + y);
+                }
+            }
+            System.out.println(" ");
+        }
     }
 }
