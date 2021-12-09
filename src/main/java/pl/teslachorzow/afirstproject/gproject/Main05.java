@@ -5,7 +5,7 @@ public class Main05 {
         System.out.println(calculateNetto(50, 0.23));
     }
 
-    public static double calculateNetto(double gross, double vat){
+    public static double calculateNetto(double gross, double vat) {
         return gross - gross * vat;
     }
 }
